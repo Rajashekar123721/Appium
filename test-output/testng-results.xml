@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-13T12:39:43 IST" name="Default suite" finished-at="2025-05-13T12:40:34 IST" duration-ms="50600">
+  <suite started-at="2025-05-30T15:54:45 IST" name="Default suite" finished-at="2025-05-30T15:56:05 IST" duration-ms="79604">
     <groups>
     </groups>
-    <test started-at="2025-05-13T12:39:43 IST" name="Default test" finished-at="2025-05-13T12:40:34 IST" duration-ms="50600">
-      <class name="rahulshettyacademy.MisceallanousAppium">
-        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:rahulshettyacademy.MisceallanousAppium@1ff4931d]" started-at="2025-05-13T12:39:43 IST" name="ConfigureAppium" finished-at="2025-05-13T12:40:09 IST" duration-ms="25593" status="PASS">
+    <test started-at="2025-05-30T15:54:45 IST" name="Default test" finished-at="2025-05-30T15:56:05 IST" duration-ms="79604">
+      <class name="MobileBrowserTesting.MobileBrowserTest">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:MobileBrowserTesting.MobileBrowserTest@2aceadd4]" started-at="2025-05-30T15:54:45 IST" name="ConfigureAppium" finished-at="2025-05-30T15:55:48 IST" duration-ms="62768" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ConfigureAppium -->
-        <test-method signature="Miscellaneous()[pri:0, instance:rahulshettyacademy.MisceallanousAppium@1ff4931d]" started-at="2025-05-13T12:40:09 IST" name="Miscellaneous" finished-at="2025-05-13T12:40:29 IST" duration-ms="20128" status="PASS">
+        <test-method signature="browserTest()[pri:0, instance:MobileBrowserTesting.MobileBrowserTest@2aceadd4]" started-at="2025-05-30T15:55:48 IST" name="browserTest" finished-at="2025-05-30T15:56:00 IST" duration-ms="12201" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Miscellaneous -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:rahulshettyacademy.MisceallanousAppium@1ff4931d]" started-at="2025-05-13T12:40:29 IST" name="teardown" finished-at="2025-05-13T12:40:34 IST" duration-ms="4706" status="PASS">
+        </test-method> <!-- browserTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:MobileBrowserTesting.MobileBrowserTest@2aceadd4]" started-at="2025-05-30T15:56:00 IST" name="teardown" finished-at="2025-05-30T15:56:05 IST" duration-ms="4447" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- rahulshettyacademy.MisceallanousAppium -->
+      </class> <!-- MobileBrowserTesting.MobileBrowserTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
